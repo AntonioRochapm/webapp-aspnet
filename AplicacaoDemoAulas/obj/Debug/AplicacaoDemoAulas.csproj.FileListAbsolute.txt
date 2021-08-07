@@ -1,0 +1,14 @@
+C:\Users\amota\Source\Repos\AplicacaoDemoAulas\AplicacaoDemoAulas\obj\Debug\AplicacaoDemoAulas.csproj.CoreCompileInputs.cache
+C:\Users\amota\Source\Repos\AplicacaoDemoAulas\AplicacaoDemoAulas\bin\AplicacaoDemoAulas.dll.config
+C:\Users\amota\Source\Repos\AplicacaoDemoAulas\AplicacaoDemoAulas\bin\AplicacaoDemoAulas.dll
+C:\Users\amota\Source\Repos\AplicacaoDemoAulas\AplicacaoDemoAulas\bin\AplicacaoDemoAulas.pdb
+C:\Users\amota\Source\Repos\AplicacaoDemoAulas\AplicacaoDemoAulas\obj\Debug\AplicacaoDemoAulas.csprojAssemblyReference.cache
+C:\Users\amota\Source\Repos\AplicacaoDemoAulas\AplicacaoDemoAulas\obj\Debug\AplicacaoDemoAulas.dll
+C:\Users\amota\Source\Repos\AplicacaoDemoAulas\AplicacaoDemoAulas\obj\Debug\AplicacaoDemoAulas.pdb
+C:\Users\Utilizador\Desktop\Antonio\ATEC\Asp.net\Prof\AplicacaoDemoAulas\AplicacaoDemoAulas\bin\AplicacaoDemoAulas.dll.config
+C:\Users\Utilizador\Desktop\Antonio\ATEC\Asp.net\Prof\AplicacaoDemoAulas\AplicacaoDemoAulas\bin\AplicacaoDemoAulas.dll
+C:\Users\Utilizador\Desktop\Antonio\ATEC\Asp.net\Prof\AplicacaoDemoAulas\AplicacaoDemoAulas\bin\AplicacaoDemoAulas.pdb
+C:\Users\Utilizador\Desktop\Antonio\ATEC\Asp.net\Prof\AplicacaoDemoAulas\AplicacaoDemoAulas\obj\Debug\AplicacaoDemoAulas.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Antonio\ATEC\Asp.net\Prof\AplicacaoDemoAulas\AplicacaoDemoAulas\obj\Debug\AplicacaoDemoAulas.dll
+C:\Users\Utilizador\Desktop\Antonio\ATEC\Asp.net\Prof\AplicacaoDemoAulas\AplicacaoDemoAulas\obj\Debug\AplicacaoDemoAulas.pdb
+C:\Users\Utilizador\Desktop\Antonio\ATEC\Asp.net\Prof\AplicacaoDemoAulas\AplicacaoDemoAulas\obj\Debug\AplicacaoDemoAulas.csproj.AssemblyReference.cache
